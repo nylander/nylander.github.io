@@ -5,5 +5,4 @@
 
 ## Description
 
-Web pages at GitHub
-
+Web pages at GitHub.
